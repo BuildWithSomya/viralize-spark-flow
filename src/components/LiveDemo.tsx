@@ -39,18 +39,7 @@ const LiveDemo = () => {
     {
       title: 'Viral Post Created',
       description: 'Ready for LinkedIn & Instagram',
-      content: `🔋 BREAKTHROUGH: MIT's 10-minute EV charging revolution is here!
-
-While everyone's stuck with hour-long charging sessions, scientists just cracked the code for batteries that:
-✅ Charge in 10 minutes
-✅ Last 10x longer
-✅ Could change transportation forever
-
-This isn't just an upgrade - it's a complete game-changer for electric vehicles. 
-
-What would you do with a car that charges faster than it takes to grab coffee? 
-
-#Innovation #ElectricVehicles #Technology #MIT #Future`,
+      content: "🔋 BREAKTHROUGH: MIT's 10-minute EV charging revolution is here!\n\nWhile everyone's stuck with hour-long charging sessions, scientists just cracked the code for batteries that:\n✅ Charge in 10 minutes\n✅ Last 10x longer\n✅ Could change transportation forever\n\nThis isn't just an upgrade - it's a complete game-changer for electric vehicles.\n\nWhat would you do with a car that charges faster than it takes to grab coffee?\n\n#Innovation #ElectricVehicles #Technology #MIT #Future",
       icon: Sparkles,
       color: 'from-purple-500 to-pink-500'
     }
